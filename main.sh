@@ -1,3 +1,3 @@
 pip3 install -r requirements.txt
 . ./salt.sh
-./api_data_collection.py
+chmod 755 ./api_data_collection.py
